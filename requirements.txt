@@ -1,0 +1,11 @@
+# Install the matching torch/torchvision pair first; see README.md.
+torch==2.9.0
+torchvision==0.24.0
+numpy==2.2.6
+scipy==1.15.3
+Pillow==11.3.0
+tqdm==4.67.1
+gdown==5.2.0
+ftfy==6.3.1
+regex==2025.7.34
+git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
